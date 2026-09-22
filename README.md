@@ -52,7 +52,7 @@ Created a Streamlit chatbot for interactive access to engineering knowledge, wit
 
 **Tools:** Python · Neo4j · Cypher · LangChain · CrewAI · Streamlit · RDF · OWL
 
-### 📄 GenerAItor — AI-Assisted Document Processing
+### 📄 GenerAItor : AI-Assisted Document Processing
 
 Contributed to a capstone project with Insiders Technologies, integrating OpenAI APIs for contextual field naming and automated field selection.
 
