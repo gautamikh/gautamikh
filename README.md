@@ -19,7 +19,7 @@
 
 I build AI systems that connect language models, knowledge graphs, and real-world data. My experience spans agentic workflows, GraphRAG, multimodal document understanding, and data engineering.
 
-I've worked across software engineering, academic research, and industrial AI—from cloud data migration at Hexaware to knowledge graph research at RPTU and AI research at ABB.
+I've worked across software engineering, academic research, and industrial AI from cloud data migration at Hexaware to knowledge graph research at RPTU and AI research at ABB.
 
 - 🔬 My master's thesis explores agentic workflows for translating natural language into SPARQL queries.
 - 🧠 My interests include Generative AI, knowledge graphs, semantic reasoning, and reliable LLM evaluation.
