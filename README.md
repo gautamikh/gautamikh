@@ -36,7 +36,7 @@ Explore my repositories for project code, documentation, and implementation deta
 
 [📂 Browse my projects](https://github.com/gautamikh?tab=repositories)
 
-### 🧩 Agentic Text-to-SPARQL — Master's Thesis
+### 🧩 Agentic Text-to-SPARQL : Master's Thesis
 
 Developed two LLM workflows using LangGraph: a fixed pipeline and a dynamic orchestrator. Both break natural-language-to-SPARQL generation into specialized, verifiable stages, with checkpointing for resumable execution.
 
